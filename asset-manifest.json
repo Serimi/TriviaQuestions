@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/TriviaQuestion/static/css/main.71d6636c.chunk.css",
-    "main.js": "/TriviaQuestion/static/js/main.1904e13d.chunk.js",
-    "main.js.map": "/TriviaQuestion/static/js/main.1904e13d.chunk.js.map",
-    "runtime-main.js": "/TriviaQuestion/static/js/runtime-main.55f9ad7b.js",
-    "runtime-main.js.map": "/TriviaQuestion/static/js/runtime-main.55f9ad7b.js.map",
-    "static/css/2.4f8976c6.chunk.css": "/TriviaQuestion/static/css/2.4f8976c6.chunk.css",
-    "static/js/2.6acb9f65.chunk.js": "/TriviaQuestion/static/js/2.6acb9f65.chunk.js",
-    "static/js/2.6acb9f65.chunk.js.map": "/TriviaQuestion/static/js/2.6acb9f65.chunk.js.map",
-    "index.html": "/TriviaQuestion/index.html",
-    "static/css/2.4f8976c6.chunk.css.map": "/TriviaQuestion/static/css/2.4f8976c6.chunk.css.map",
-    "static/css/main.71d6636c.chunk.css.map": "/TriviaQuestion/static/css/main.71d6636c.chunk.css.map",
-    "static/js/2.6acb9f65.chunk.js.LICENSE.txt": "/TriviaQuestion/static/js/2.6acb9f65.chunk.js.LICENSE.txt"
+    "main.css": "/TriviaQuestions/static/css/main.71d6636c.chunk.css",
+    "main.js": "/TriviaQuestions/static/js/main.1904e13d.chunk.js",
+    "main.js.map": "/TriviaQuestions/static/js/main.1904e13d.chunk.js.map",
+    "runtime-main.js": "/TriviaQuestions/static/js/runtime-main.cd776013.js",
+    "runtime-main.js.map": "/TriviaQuestions/static/js/runtime-main.cd776013.js.map",
+    "static/css/2.4f8976c6.chunk.css": "/TriviaQuestions/static/css/2.4f8976c6.chunk.css",
+    "static/js/2.6acb9f65.chunk.js": "/TriviaQuestions/static/js/2.6acb9f65.chunk.js",
+    "static/js/2.6acb9f65.chunk.js.map": "/TriviaQuestions/static/js/2.6acb9f65.chunk.js.map",
+    "index.html": "/TriviaQuestions/index.html",
+    "static/css/2.4f8976c6.chunk.css.map": "/TriviaQuestions/static/css/2.4f8976c6.chunk.css.map",
+    "static/css/main.71d6636c.chunk.css.map": "/TriviaQuestions/static/css/main.71d6636c.chunk.css.map",
+    "static/js/2.6acb9f65.chunk.js.LICENSE.txt": "/TriviaQuestions/static/js/2.6acb9f65.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.55f9ad7b.js",
+    "static/js/runtime-main.cd776013.js",
     "static/css/2.4f8976c6.chunk.css",
     "static/js/2.6acb9f65.chunk.js",
     "static/css/main.71d6636c.chunk.css",
